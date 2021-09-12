@@ -1,0 +1,9 @@
+node.js
+python
+ganache
+node-gyp
+    npm install -g node-gyp@3.6.3
+Truffle
+    npm install -g truffle@5.1.39
+React
+    npm install -g create-react-app@3.3.1
